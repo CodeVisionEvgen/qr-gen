@@ -18,7 +18,7 @@ export default function Home() {
             className={
               title({
                 color: "green",
-              }) + " !h-max"
+              }) + " !h-max p-2"
             }
           >
             QR code generator
