@@ -15,7 +15,7 @@ export const siteConfig = {
       icon: GithubIcon,
     },
     {
-      link: "https://www.linkedin.com/in/yevhen-homeniuk-611b552b8",
+      link: "https://www.linkedin.com/in/yevhen-homeniuk",
       icon: LinkedInIcon,
     },
   ],
