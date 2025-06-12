@@ -1,8 +1,8 @@
 "use client";
 import { useRouter } from "next/navigation";
-import { Textarea } from "@nextui-org/input";
+import { Textarea } from "@heroui/input";
 import { useState } from "react";
-import { Button } from "@nextui-org/button";
+import { Button } from "@heroui/button";
 
 import { title } from "@/components/primitives";
 import { QrCodeIcon } from "@/components/icons";

@@ -1,6 +1,6 @@
 "use client";
-import { Button } from "@nextui-org/button";
-import { Navbar, NavbarContent, NavbarItem } from "@nextui-org/navbar";
+import { Button } from "@heroui/button";
+import { Navbar, NavbarContent, NavbarItem } from "@heroui/navbar";
 import { useRouter } from "next/navigation";
 
 import { siteConfig } from "@/config/site";

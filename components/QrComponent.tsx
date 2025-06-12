@@ -2,7 +2,7 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import React, { useEffect, useRef, useState } from "react";
 import * as QRCode from "qrcode";
-import { Button, ButtonGroup } from "@nextui-org/button";
+import { Button, ButtonGroup } from "@heroui/button";
 
 import { CopyIcon, DownloadIcon, RegenerateIcon } from "./icons";
 export default function QrComponent() {

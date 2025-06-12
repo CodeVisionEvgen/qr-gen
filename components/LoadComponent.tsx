@@ -1,5 +1,5 @@
 import React from "react";
-import { Spinner } from "@nextui-org/spinner";
+import { Spinner } from "@heroui/spinner";
 
 export default function LoadComponent() {
   return (

@@ -7,7 +7,7 @@ export const siteConfig = {
   description: "Quick QR code generator",
   contacts: [
     {
-      link: "https://portfolio-codevisionevgen.vercel.app",
+      link: "https://homeniuk.vercel.app",
       icon: UserShieldIcon,
     },
     {
@@ -15,7 +15,7 @@ export const siteConfig = {
       icon: GithubIcon,
     },
     {
-      link: "https://www.linkedin.com/in/evheniy-homenyuk-611b552b8/",
+      link: "https://www.linkedin.com/in/yevhen-homeniuk-611b552b8",
       icon: LinkedInIcon,
     },
   ],
